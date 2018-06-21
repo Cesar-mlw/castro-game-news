@@ -1,0 +1,4 @@
+baseURL = "https://castro-game-news.firebaseapp.com"
+languageCode = "pt-br"
+title = "Castro Game News"
+theme = "ananke"
